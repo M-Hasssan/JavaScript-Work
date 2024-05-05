@@ -1,0 +1,17 @@
+#box {
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    height: 50%;
+}
+
+.boxes {
+
+    border: 1px solid gray;
+    height: 20vh;
+    width: 40vw;
+    background-color: blue;
+
+    
+
+}
